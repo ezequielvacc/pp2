@@ -1,1 +1,1 @@
-# pp2
+este repositorio es para la clase pp2
